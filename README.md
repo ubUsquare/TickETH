@@ -1,7 +1,7 @@
 # TickETH
 Your Ticket to Secure, Transparent, and Fraud-Free Events
 
-**Problem and Solution:
+**Problem and Solution:**
 
 Events bring people together, but behind the excitement, there's a growing problem—ticket fraud. From fake tickets to scalping, event organizers and attendees face significant challenges.
 
