@@ -4,7 +4,7 @@ function Section_5() {
   return (
     <div
       id="section-4"
-      className="flex mt-10 justify-center gap-7 flex-col h-full lg:h-[34pc] w-full"
+      className="flex mt-10 justify-center gap-7 flex-col h-full  w-full"
     >
       <h1 className="dark:text-white/80 text-2xl font-semibold sm:text-4xl">
         How TickETH Fits into{" "}
