@@ -36,7 +36,7 @@ function Navbar() {
         >
           <img src={logo} className="h-12 xs:h-16" alt="Logo" />
           <span className="self-center text-base xs:text-xl sm:text-2xl font-semibold whitespace-nowrap dark:text-white/80">
-            TickETH
+            Ticket-ICP
           </span>
         </Link>
         <ul
