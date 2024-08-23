@@ -54,7 +54,7 @@ function Section_1() {
         Real-World Assets
         </b>
         <p className="text-white text-sm sm:text-base text-gray-900/90">
-        TickETH is a blockchain-based platform that tokenizes event tickets as NFTs,  
+        Ticket-ICP is a blockchain-based platform that tokenizes event tickets as NFTs,  
           <br className="sm:flex hidden" />
           transforming them into secure, verifiable digital assets that can be traded
           <br className="sm:flex hidden" /> and validated on the BitFinity blockchain.

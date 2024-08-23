@@ -21,7 +21,7 @@ function Section_5() {
           lineHeight: "24px",
         }}
       >
-        TickETH is a blockchain-based platform that tokenizes event tickets as
+        Ticket-ICP is a blockchain-based platform that tokenizes event tickets as
         NFTs, transforming them into secure, verifiable digital assets that can
         be traded and validated on the BitFinity blockchain. This project directly
         aligns with the Real-World Assets (RWA) track by bridging the gap
@@ -48,7 +48,7 @@ function Section_5() {
             className="dark:text-white/50 sm:text-lg"
             style={{ fontSize: 14, lineHeight: "24px" }}
           >
-            TickETH turns physical event tickets into digital assets (NFTs) on
+            Ticket-ICP turns physical event tickets into digital assets (NFTs) on
             the BitFinity blockchain. These NFTs represent ownership of a real-world
             asset—the right to attend an event—ensuring that each ticket is
             unique, verifiable, and tamper-proof.
@@ -72,7 +72,7 @@ function Section_5() {
             className="dark:text-white/50 sm:text-lg"
             style={{ fontSize: 14, lineHeight: "24px" }}
           >
-            By leveraging BitFinity's blockchain technology, TickETH addresses common
+            By leveraging BitFinity's blockchain technology, Ticket-ICP addresses common
             issues in traditional ticketing, such as counterfeiting and
             scalping. The immutability of the blockchain guarantees that each
             ticket's ownership history and authenticity can be easily verified,
@@ -124,7 +124,7 @@ function Section_5() {
             style={{ fontSize: 14, lineHeight: "24px", lineHeight: "24px" }}
           >
             Built on BitFinity's scalable and accessible blockchain framework,
-            TickETH offers a user-friendly interface that simplifies the process
+            Ticket-ICP offers a user-friendly interface that simplifies the process
             of tokenizing, trading, and validating event tickets. This approach
             makes blockchain technology accessible to a broader audience,
             encouraging the adoption of digital asset management in real-world
