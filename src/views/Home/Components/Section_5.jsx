@@ -9,7 +9,7 @@ function Section_5() {
       <h1 className="dark:text-white/80 text-2xl font-semibold sm:text-4xl">
         How TickETH Fits into{" "}
         <b className="border-2 sm:text-3xl text-lg lg:shadow-none font-semibold lg:shadow-purple-800/80 sm:border-0 rounded-md shadow-lg shadow-purple-800/80 p-1 bg-gradient-to-r from-purple-600 via-pink-600 to-blue-500">
-          Lisk:
+          BitFinity:
         </b>
       </h1>
 
@@ -23,7 +23,7 @@ function Section_5() {
       >
         TickETH is a blockchain-based platform that tokenizes event tickets as
         NFTs, transforming them into secure, verifiable digital assets that can
-        be traded and validated on the Lisk blockchain. This project directly
+        be traded and validated on the BitFinity blockchain. This project directly
         aligns with the Real-World Assets (RWA) track by bridging the gap
         between physical event access and digital ownership, leveraging the
         unique capabilities of blockchain technology to enhance security,
@@ -49,7 +49,7 @@ function Section_5() {
             style={{ fontSize: 14, lineHeight: "24px" }}
           >
             TickETH turns physical event tickets into digital assets (NFTs) on
-            the Lisk blockchain. These NFTs represent ownership of a real-world
+            the BitFinity blockchain. These NFTs represent ownership of a real-world
             asset—the right to attend an event—ensuring that each ticket is
             unique, verifiable, and tamper-proof.
           </p>
@@ -72,7 +72,7 @@ function Section_5() {
             className="dark:text-white/50 sm:text-lg"
             style={{ fontSize: 14, lineHeight: "24px" }}
           >
-            By leveraging Lisk's blockchain technology, TickETH addresses common
+            By leveraging BitFinity's blockchain technology, TickETH addresses common
             issues in traditional ticketing, such as counterfeiting and
             scalping. The immutability of the blockchain guarantees that each
             ticket's ownership history and authenticity can be easily verified,
@@ -100,7 +100,7 @@ function Section_5() {
           >
             The platform integrates real-time validation mechanisms, allowing
             event organisers to verify ticket ownership at the point of entry.
-            This process, facilitated by Lisk's fast and efficient blockchain
+            This process, facilitated by BitFinity's fast and efficient blockchain
             infrastructure, ensures that only legitimate ticket holders gain
             access to events, enhancing security and user experience.
           </p>
@@ -123,7 +123,7 @@ function Section_5() {
             className="dark:text-white/50 sm:text-lg"
             style={{ fontSize: 14, lineHeight: "24px", lineHeight: "24px" }}
           >
-            Built on Lisk's scalable and accessible blockchain framework,
+            Built on BitFinity's scalable and accessible blockchain framework,
             TickETH offers a user-friendly interface that simplifies the process
             of tokenizing, trading, and validating event tickets. This approach
             makes blockchain technology accessible to a broader audience,

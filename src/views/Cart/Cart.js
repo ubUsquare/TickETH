@@ -28,7 +28,7 @@ const Cart = () => {
     const EventTicketMint = async () => {
 
         try {
-            let contAddr = "0x457A6C81926875CA32028974bf83E001Ea43205d";
+            let contAddr = "0xeaDD94d1Aac3378875b11C3402564D67c4a3BFA4";
             let accAddress = AccountState?.account;
             const web3 = new Web3(window.ethereum);
 

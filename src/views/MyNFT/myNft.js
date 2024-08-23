@@ -28,7 +28,7 @@ const MyNFT = () => {
     const PlatniumTicket = async () => {
         try {
             let accAddress = AccountState?.account;
-            const PlatniumTicketRes = await platinumTicketsOwned(accAddress, "0x457A6C81926875CA32028974bf83E001Ea43205d")
+            const PlatniumTicketRes = await platinumTicketsOwned(accAddress, "0xeaDD94d1Aac3378875b11C3402564D67c4a3BFA4")
             console.log("PlatniumTicketRes", Number(PlatniumTicketRes))
             setPlatinumCardData(Number(PlatniumTicketRes))
         } catch (error) {
@@ -39,7 +39,7 @@ const MyNFT = () => {
     const GoldTicket = async () => {
         try {
             let accAddress = AccountState?.account;
-            const GoldTicketRes = await goldTicketsOwned(accAddress, "0x457A6C81926875CA32028974bf83E001Ea43205d")
+            const GoldTicketRes = await goldTicketsOwned(accAddress, "0xeaDD94d1Aac3378875b11C3402564D67c4a3BFA4")
             console.log("GoldTicketRes", Number(GoldTicketRes))
             setGoldCardData(Number(GoldTicketRes))
         } catch (error) {
@@ -50,7 +50,7 @@ const MyNFT = () => {
     const SilverTicket = async () => {
         try {
             let accAddress = AccountState?.account;
-            const SilverTicketRes = await silverTicketsOwned(accAddress, "0x457A6C81926875CA32028974bf83E001Ea43205d")
+            const SilverTicketRes = await silverTicketsOwned(accAddress, "0xeaDD94d1Aac3378875b11C3402564D67c4a3BFA4")
             console.log("SilverTicketRes", Number(SilverTicketRes))
             setSilverCardData(Number(SilverTicketRes))
         } catch (error) {

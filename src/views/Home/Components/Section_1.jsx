@@ -57,7 +57,7 @@ function Section_1() {
         TickETH is a blockchain-based platform that tokenizes event tickets as NFTs,  
           <br className="sm:flex hidden" />
           transforming them into secure, verifiable digital assets that can be traded
-          <br className="sm:flex hidden" /> and validated on the Lisk blockchain.
+          <br className="sm:flex hidden" /> and validated on the BitFinity blockchain.
         </p>
         <div
           id="buttons"
